@@ -1,0 +1,3 @@
+This is my hello world test file!!! 
+I think that this is pretty cool. :)
+For some reason VS Code wouldn't let me modify README.md, but i got it to work in sublime text.
